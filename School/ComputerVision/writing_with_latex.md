@@ -1,6 +1,6 @@
 # Writing with Latex
 
-### HelloLatex
+### Hello Latex
 
 ```latex
 \documentclass{article}
@@ -102,8 +102,6 @@ $E=mc^2$
 %inline 
 In physics, the mass-energy equivalence is stated
 by the equation $E=mc^2$, discovered in 1905 by Albert Einstein.
-
-
 ```
 
 ### Basic Usage
